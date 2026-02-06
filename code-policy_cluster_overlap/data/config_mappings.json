@@ -1,0 +1,311 @@
+{
+  "country_names": {
+    "ARG": "阿根廷",
+    "AUS": "澳大利亚",
+    "AUT": "奥地利",
+    "BEL": "比利时",
+    "BGR": "保加利亚",
+    "BRA": "巴西",
+    "CAN": "加拿大",
+    "CHE": "瑞士",
+    "CHL": "智利",
+    "CHN": "中国",
+    "COL": "哥伦比亚",
+    "CRI": "哥斯达黎加",
+    "CZE": "捷克",
+    "DEU": "德国",
+    "DNK": "丹麦",
+    "ESP": "西班牙",
+    "EST": "爱沙尼亚",
+    "EU27_2020": "欧盟",
+    "FIN": "芬兰",
+    "FRA": "法国",
+    "GBR": "英国",
+    "GRC": "希腊",
+    "HRV": "克罗地亚",
+    "HUN": "匈牙利",
+    "IDN": "印度尼西亚",
+    "IND": "印度",
+    "IRL": "爱尔兰",
+    "ISL": "冰岛",
+    "ISR": "以色列",
+    "ITA": "意大利",
+    "JPN": "日本",
+    "KOR": "韩国",
+    "LTU": "立陶宛",
+    "LUX": "卢森堡",
+    "LVA": "拉脱维亚",
+    "MEX": "墨西哥",
+    "MLT": "马耳他",
+    "NLD": "荷兰",
+    "NOR": "挪威",
+    "NZL": "新西兰",
+    "PER": "秘鲁",
+    "POL": "波兰",
+    "PRT": "葡萄牙",
+    "ROU": "罗马尼亚",
+    "RUS": "俄罗斯",
+    "SAU": "沙特阿拉伯",
+    "SVK": "斯洛伐克",
+    "SVN": "斯洛文尼亚",
+    "SWE": "瑞典",
+    "TUR": "土耳其",
+    "USA": "美国",
+    "ZAF": "南非"
+  },
+  "level2_names": {
+    "LEV2_SEC_E_MBI": "Electricity – market-based instruments",
+    "LEV2_SEC_E_NMBI": "Electricity – non market-based instruments",
+    "LEV2_SEC_T_MBI": "Transport – market-based instruments",
+    "LEV2_SEC_T_NMBI": "Transport – non market-based instruments",
+    "LEV2_SEC_B_MBI": "Buildings – market-based instruments",
+    "LEV2_SEC_B_NMBI": "Buildings – non market-based instruments",
+    "LEV2_SEC_I_MBI": "Industry – market-based instruments",
+    "LEV2_SEC_I_NMBI": "Industry – non market-based instruments",
+    "LEV2_CROSS_SEC_GHGTAR": "GHG emissions targets",
+    "LEV2_CROSS_SEC_RDD": "Public Research, Development and Demonstration",
+    "LEV2_CROSS_SEC_FFPP": "Fossil fuel production policies",
+    "LEV2_CROSS_SEC_CG": "Climate governance",
+    "LEV2_INT_C_COORD": "International climate co-operation",
+    "LEV2_INT_C_FIN": "International public finance",
+    "LEV2_INT_GHGREP": "GHG emissions data and reporting"
+  },
+  "level1_names": {
+    "LEV1_INCENTIVE": "Incentive-based",
+    "LEV1_REGULATORY": "Regulatory",
+    "LEV1_RND": "Research and Development (R&D)",
+    "LEV1_COMMITMENT": "Commitment-based"
+  },
+  "level_mapping": {
+    "LEV3_FIT": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_AUCTION": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_RECS": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_ETS_E": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_CARBONTAX_E": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FFS_E": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_EXCISETAX_E": {
+      "L2": "Electricity – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_BAN_PHOUT_COAL": {
+      "L2": "Electricity – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_RENEWABLE_EXP": {
+      "L2": "Electricity – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_EMIS_STD": {
+      "L2": "Electricity – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_ETS_I": {
+      "L2": "Industry – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_CARBONTAX_I": {
+      "L2": "Industry – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FFS_I": {
+      "L2": "Industry – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_EXCISETAX_I": {
+      "L2": "Industry – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FIN_MECH_I": {
+      "L2": "Industry – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_MEPS_MOTOR": {
+      "L2": "Industry – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_EE_MANDATE": {
+      "L2": "Industry – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_ETS_B": {
+      "L2": "Buildings – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_CARBONTAX_B": {
+      "L2": "Buildings – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FFS_B": {
+      "L2": "Buildings – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_EXCISETAX_B": {
+      "L2": "Buildings – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FIN_MECH_B": {
+      "L2": "Buildings – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_MEPS_APPL": {
+      "L2": "Buildings – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_BC": {
+      "L2": "Buildings – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_BAN_PHOUT_HEAT": {
+      "L2": "Buildings – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_LABEL_APPL": {
+      "L2": "Buildings – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_CONG_CHARG": {
+      "L2": "Transport – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_ETS_T": {
+      "L2": "Transport – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_CARBONTAX_T": {
+      "L2": "Transport – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_FFS_T": {
+      "L2": "Transport – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_EXCISETAX_T": {
+      "L2": "Transport – market-based instruments",
+      "L1": "Incentive-based"
+    },
+    "LEV3_MEPS_T": {
+      "L2": "Transport – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_LABEL_CAR": {
+      "L2": "Transport – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_EXP_RAIL": {
+      "L2": "Transport – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_SPEED": {
+      "L2": "Transport – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_BAN_PHOUT_ICE": {
+      "L2": "Transport – non market-based instruments",
+      "L1": "Regulatory"
+    },
+    "LEV3_NDC": {
+      "L2": "GHG emissions targets",
+      "L1": "Commitment-based"
+    },
+    "LEV3_NZ": {
+      "L2": "GHG emissions targets",
+      "L1": "Commitment-based"
+    },
+    "LEV3_RDD_EE": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_RDD_CCS": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_RDD_RES": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_RDD_NUC": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_RDD_HYDR": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_RDD_OTHER": {
+      "L2": "Public Research, Development and Demonstration",
+      "L1": "Research and Development (R&D)"
+    },
+    "LEV3_BAN_PHOUT_EXTRAC": {
+      "L2": "Fossil fuel production policies",
+      "L1": "Regulatory"
+    },
+    "LEV3_FFS_PRODUCER": {
+      "L2": "Fossil fuel production policies",
+      "L1": "Regulatory"
+    },
+    "LEV3_METHAN": {
+      "L2": "Fossil fuel production policies",
+      "L1": "Regulatory"
+    },
+    "LEV3_AB": {
+      "L2": "Climate governance",
+      "L1": "Commitment-based"
+    },
+    "LEV3_TREATY": {
+      "L2": "International climate co-operation",
+      "L1": "Commitment-based"
+    },
+    "LEV3_INT_INIT": {
+      "L2": "International climate co-operation",
+      "L1": "Commitment-based"
+    },
+    "LEV3_PR_AV_MAR": {
+      "L2": "International climate co-operation",
+      "L1": "Commitment-based"
+    },
+    "LEV3_BAN_CREDIT": {
+      "L2": "International public finance",
+      "L1": "Regulatory"
+    },
+    "LEV3_BAN_FF_ABROAD": {
+      "L2": "International public finance",
+      "L1": "Regulatory"
+    },
+    "LEV3_EVAL_BR": {
+      "L2": "GHG emissions data and reporting",
+      "L1": "Commitment-based"
+    },
+    "LEV3_UNFCCC": {
+      "L2": "GHG emissions data and reporting",
+      "L1": "Commitment-based"
+    },
+    "LEV3_GHG_ACC": {
+      "L2": "GHG emissions data and reporting",
+      "L1": "Commitment-based"
+    }
+  },
+  "level1_colors": {
+    "LEV1_INCENTIVE": "#2E86AB",
+    "LEV1_REGULATORY": "#E27D60",
+    "LEV1_RND": "#85C7F2",
+    "LEV1_COMMITMENT": "#61C0BF"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "Breadth_Industry – non market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_International public finance": [
+    2,
+    1,
+    0
+  ],
+  "Breadth_GHG emissions targets": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Industry – market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Transport – market-based instruments": [
+    0,
+    1,
+    2
+  ],
+  "Breadth_Electricity – market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Electricity – non market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Buildings – non market-based instruments": [
+    1,
+    2,
+    0
+  ],
+  "Breadth_Transport – non market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Fossil fuel production policies": [
+    1,
+    2,
+    0
+  ],
+  "Breadth_Climate governance": [
+    0,
+    1,
+    2
+  ],
+  "Breadth_Buildings – market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Breadth_Public Research, Development and Demonstration": [
+    1,
+    2,
+    0
+  ],
+  "Breadth_GHG emissions data and reporting": [
+    2,
+    1,
+    0
+  ],
+  "Breadth_International climate co-operation": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_International public finance": [
+    2,
+    1,
+    0
+  ],
+  "Intensity_GHG emissions targets": [
+    0,
+    2,
+    1
+  ],
+  "Intensity_Industry – market-based instruments": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Buildings – market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Intensity_Transport – market-based instruments": [
+    0,
+    2,
+    1
+  ],
+  "Intensity_Electricity – market-based instruments": [
+    2,
+    1,
+    0
+  ],
+  "Intensity_Buildings – non market-based instruments": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Electricity – non market-based instruments": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Transport – non market-based instruments": [
+    0,
+    1,
+    2
+  ],
+  "Intensity_International climate co-operation": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Climate governance": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Fossil fuel production policies": [
+    0,
+    1,
+    2
+  ],
+  "Intensity_Public Research, Development and Demonstration": [
+    0,
+    1,
+    2
+  ],
+  "Intensity_GHG emissions data and reporting": [
+    1,
+    2,
+    0
+  ],
+  "Intensity_Industry – non market-based instruments": [
+    0,
+    2,
+    1
+  ]
+}

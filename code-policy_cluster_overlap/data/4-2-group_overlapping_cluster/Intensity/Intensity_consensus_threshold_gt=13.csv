@@ -1,0 +1,47 @@
+﻿Threshold条件,等价最小重叠,共识ID,核心-边缘,配色HEX,国家数,国家列表,簇内最小重叠(非对角),簇内平均重叠(非对角),阈值校验(最小重叠>=等价门槛)
+Overlap > 13,14,1,Core,#3e95d2,2,"HUN, SVK",14.0,14.00,True
+Overlap > 13,14,2,Periphery,#47c247,1,SVN,,,True
+Overlap > 13,14,3,Periphery,#b295cc,1,GRC,,,True
+Overlap > 13,14,4,Periphery,#a9766b,1,LTU,,,True
+Overlap > 13,14,5,Periphery,#e9aed7,1,ESP,,,True
+Overlap > 13,14,6,Periphery,#9e9e9e,1,CAN,,,True
+Overlap > 13,14,7,Periphery,#d2d349,1,AUS,,,True
+Overlap > 13,14,8,Periphery,#45d0df,1,KOR,,,True
+Overlap > 13,14,9,Periphery,#3e95d2,1,NZL,,,True
+Overlap > 13,14,10,Periphery,#47c247,1,LVA,,,True
+Overlap > 13,14,11,Periphery,#b295cc,1,EST,,,True
+Overlap > 13,14,12,Periphery,#a9766b,1,LUX,,,True
+Overlap > 13,14,13,Periphery,#e9aed7,1,ISR,,,True
+Overlap > 13,14,14,Periphery,#9e9e9e,1,CHL,,,True
+Overlap > 13,14,15,Periphery,#d2d349,1,TUR,,,True
+Overlap > 13,14,16,Periphery,#45d0df,1,MEX,,,True
+Overlap > 13,14,17,Periphery,#3e95d2,1,CHN,,,True
+Overlap > 13,14,18,Periphery,#47c247,1,NLD,,,True
+Overlap > 13,14,19,Periphery,#b295cc,1,PRT,,,True
+Overlap > 13,14,20,Core,#a9766b,2,"DEU, FRA",14.0,14.00,True
+Overlap > 13,14,21,Periphery,#e9aed7,1,IRL,,,True
+Overlap > 13,14,22,Periphery,#9e9e9e,1,DNK,,,True
+Overlap > 13,14,23,Periphery,#d2d349,1,FIN,,,True
+Overlap > 13,14,24,Periphery,#45d0df,1,GBR,,,True
+Overlap > 13,14,25,Periphery,#3e95d2,1,SWE,,,True
+Overlap > 13,14,26,Periphery,#47c247,1,NOR,,,True
+Overlap > 13,14,27,Periphery,#b295cc,1,BEL,,,True
+Overlap > 13,14,28,Periphery,#a9766b,1,CHE,,,True
+Overlap > 13,14,29,Periphery,#e9aed7,1,JPN,,,True
+Overlap > 13,14,30,Periphery,#9e9e9e,1,ITA,,,True
+Overlap > 13,14,31,Periphery,#d2d349,1,AUT,,,True
+Overlap > 13,14,32,Periphery,#45d0df,1,CZE,,,True
+Overlap > 13,14,33,Periphery,#3e95d2,1,POL,,,True
+Overlap > 13,14,34,Periphery,#47c247,1,BGR,,,True
+Overlap > 13,14,35,Periphery,#b295cc,1,ROU,,,True
+Overlap > 13,14,36,Periphery,#a9766b,1,HRV,,,True
+Overlap > 13,14,37,Core,#e9aed7,2,"ARG, IDN",14.0,14.00,True
+Overlap > 13,14,38,Periphery,#9e9e9e,1,MLT,,,True
+Overlap > 13,14,39,Periphery,#d2d349,1,RUS,,,True
+Overlap > 13,14,40,Periphery,#45d0df,1,PER,,,True
+Overlap > 13,14,41,Periphery,#3e95d2,1,IND,,,True
+Overlap > 13,14,42,Periphery,#47c247,1,SAU,,,True
+Overlap > 13,14,43,Periphery,#b295cc,1,ZAF,,,True
+Overlap > 13,14,44,Periphery,#a9766b,1,COL,,,True
+Overlap > 13,14,45,Periphery,#e9aed7,1,ISL,,,True
+Overlap > 13,14,46,Periphery,#9e9e9e,1,CRI,,,True

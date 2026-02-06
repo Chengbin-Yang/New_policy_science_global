@@ -1,0 +1,38 @@
+﻿Threshold条件,等价最小重叠,共识ID,核心-边缘,配色HEX,国家数,国家列表,簇内最小重叠(非对角),簇内平均重叠(非对角),阈值校验(最小重叠>=等价门槛)
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,1,Core,#3e95d2,3,"FIN, FRA, PRT",13.0,13.33,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,2,Core,#47c247,2,"DNK, IRL",14.0,14.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,3,Core,#b295cc,3,"AUT, HUN, ITA",12.0,12.67,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,4,Core,#a9766b,2,"ESP, SVK",13.0,13.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,5,Periphery,#e9aed7,1,SVN,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,6,Periphery,#9e9e9e,1,CZE,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,7,Periphery,#d2d349,1,JPN,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,8,Core,#45d0df,2,"NOR, POL",12.0,12.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,9,Core,#3e95d2,2,"BEL, NLD",13.0,13.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,10,Periphery,#47c247,1,DEU,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,11,Core,#b295cc,2,"GBR, SWE",12.0,12.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,12,Periphery,#a9766b,1,CHE,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,13,Periphery,#e9aed7,1,AUS,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,14,Periphery,#9e9e9e,1,NZL,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,15,Periphery,#d2d349,1,CAN,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,16,Core,#45d0df,2,"EST, LVA",13.0,13.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,17,Periphery,#3e95d2,1,LTU,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,18,Periphery,#47c247,1,LUX,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,19,Periphery,#b295cc,1,GRC,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,20,Periphery,#a9766b,1,KOR,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,21,Periphery,#e9aed7,1,MEX,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,22,Periphery,#9e9e9e,1,CHN,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,23,Core,#d2d349,2,"HRV, ROU",14.0,14.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,24,Periphery,#45d0df,1,BGR,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,25,Periphery,#3e95d2,1,RUS,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,26,Periphery,#47c247,1,MLT,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,27,Core,#b295cc,2,"IDN, IND",12.0,12.00,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,28,Periphery,#a9766b,1,TUR,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,29,Periphery,#e9aed7,1,CHL,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,30,Periphery,#9e9e9e,1,ISL,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,31,Periphery,#d2d349,1,ZAF,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,32,Periphery,#45d0df,1,ISR,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,33,Periphery,#3e95d2,1,CRI,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,34,Periphery,#47c247,1,ARG,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,35,Periphery,#b295cc,1,COL,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,36,Periphery,#a9766b,1,SAU,,,True
+"Overlap ∈ (11, +∞]  (等价: Overlap ≥ 12)",12,37,Periphery,#e9aed7,1,PER,,,True

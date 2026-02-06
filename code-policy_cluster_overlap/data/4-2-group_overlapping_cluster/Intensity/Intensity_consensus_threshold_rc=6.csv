@@ -1,0 +1,9 @@
+﻿Threshold条件,等价最小重叠,共识ID,核心-边缘,配色HEX,国家数,国家列表,簇内最小重叠(非对角),簇内平均重叠(非对角),阈值校验(最小重叠>=等价门槛)
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,1,Core,#3e95d2,5,"GRC, HUN, LTU, SVK, SVN",6,9.70,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,2,Core,#47c247,5,"AUS, CAN, ESP, KOR, NZL",7,9.90,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,3,Core,#b295cc,5,"CHL, EST, ISR, LUX, LVA",6,8.10,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,4,Core,#a9766b,3,"CHN, MEX, TUR",10,10.33,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,5,Core,#e9aed7,10,"DEU, DNK, FIN, FRA, GBR, IRL, NLD, NOR, PRT, SWE",6,10.31,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,6,Core,#9e9e9e,7,"AUT, BEL, CHE, CZE, ITA, JPN, POL",8,10.52,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,7,Core,#d2d349,10,"ARG, BGR, HRV, IDN, IND, MLT, PER, ROU, RUS, SAU",6,9.84,True
+"Overlap ∈ (5, +∞]  (等价: Overlap ≥ 6)",6,8,Core,#45d0df,4,"COL, CRI, ISL, ZAF",8,10.17,True

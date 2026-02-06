@@ -1,0 +1,19 @@
+﻿Threshold条件,等价最小重叠,共识ID,核心-边缘,配色HEX,国家数,国家列表,簇内最小重叠(非对角),簇内平均重叠(非对角),阈值校验(最小重叠>=等价门槛)
+Overlap > 8,9,1,Core,#3e95d2,8,"AUT, DNK, FIN, FRA, HUN, IRL, ITA, PRT",10.0,11.68,True
+Overlap > 8,9,2,Core,#47c247,3,"ESP, SVK, SVN",9.0,11.00,True
+Overlap > 8,9,3,Core,#b295cc,4,"CZE, JPN, NOR, POL",10.0,10.83,True
+Overlap > 8,9,4,Core,#a9766b,3,"BEL, DEU, NLD",11.0,11.67,True
+Overlap > 8,9,5,Core,#e9aed7,2,"GBR, SWE",12.0,12.00,True
+Overlap > 8,9,6,Core,#9e9e9e,2,"AUS, CHE",10.0,10.00,True
+Overlap > 8,9,7,Core,#d2d349,2,"CAN, NZL",9.0,9.00,True
+Overlap > 8,9,8,Core,#45d0df,3,"EST, LTU, LVA",11.0,12.00,True
+Overlap > 8,9,9,Periphery,#3e95d2,1,LUX,,,True
+Overlap > 8,9,10,Core,#47c247,3,"GRC, KOR, MEX",9.0,10.00,True
+Overlap > 8,9,11,Periphery,#b295cc,1,CHN,,,True
+Overlap > 8,9,12,Core,#a9766b,5,"BGR, HRV, MLT, ROU, RUS",9.0,10.90,True
+Overlap > 8,9,13,Core,#e9aed7,3,"IDN, IND, TUR",10.0,11.00,True
+Overlap > 8,9,14,Periphery,#9e9e9e,1,CHL,,,True
+Overlap > 8,9,15,Core,#d2d349,2,"ISL, ZAF",11.0,11.00,True
+Overlap > 8,9,16,Core,#45d0df,2,"CRI, ISR",9.0,9.00,True
+Overlap > 8,9,17,Core,#3e95d2,2,"ARG, COL",10.0,10.00,True
+Overlap > 8,9,18,Core,#47c247,2,"PER, SAU",11.0,11.00,True

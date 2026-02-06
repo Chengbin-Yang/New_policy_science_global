@@ -1,0 +1,6 @@
+members,size,sum_weight,ID
+"DNK,FIN,FRA,IRL",4,80.0,1
+"DNK,FIN,FRA,PRT",4,79.0,2
+"AUT,ESP,HUN,SVK",4,77.0,3
+"AUT,ESP,HUN,ITA",4,75.0,4
+"AUT,BEL,ESP",3,37.0,5
